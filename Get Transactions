@@ -1,0 +1,24 @@
+Endpoint: GET /transactions?account_id={id}
+Returns transactions for one account.
+
+[
+  {
+    "transaction_id": "t001",
+    "date": "2025-09-01",
+    "amount": -50.00,
+    "description": "Grocery Store"
+  },
+  {
+    "transaction_id": "t002",
+    "date": "2025-09-02",
+    "amount": 1200.00,
+    "description": "Salary Payment"
+  }
+]
+
+
+ 4. `examples/get-accounts.md`
+   markdown
+Example: Get Accounts
+
+Request 
