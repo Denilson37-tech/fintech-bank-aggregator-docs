@@ -1,0 +1,12 @@
+Authorization: Bearer test_12345
+
+
+ Response
+```json
+[
+  {
+    "account_id": "123",
+    "bank": "Chase",
+    "balance": 1500.50
+  }
+]
