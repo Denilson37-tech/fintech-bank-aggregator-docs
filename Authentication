@@ -1,0 +1,10 @@
+Authentication
+
+To use the Bank Aggregator API, you need an API Key.
+
+- Each developer gets one API Key.  
+- You must send the API Key in the header of every request.
+
+Example header:
+
+Authorization: Bearer YOUR_API_KEY
